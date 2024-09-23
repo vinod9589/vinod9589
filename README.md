@@ -13,7 +13,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies.
-- 🎓 &nbsp;
+- 🎓 &nbsp;My Portfolio https://portfolio-vinodrajput.netlify.app/
 - 🌱 &nbsp;I'm currently learning full stack web development.
 - ❤ &nbsp;My favorite language: JavaScript.
 - ✉ &nbsp;You can email me at vr02589@gmail.com.
